@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/login/android/app/src/debug/debug.iml" filepath="$PROJECT_DIR$/login/android/app/src/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login/login.iml" filepath="$PROJECT_DIR$/login/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myShoppybag.iml" filepath="$PROJECT_DIR$/myShoppybag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login/android/app/src/profile/profile.iml" filepath="$PROJECT_DIR$/login/android/app/src/profile/profile.iml" />
+    </modules>
+  </component>
+</project>

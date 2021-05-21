@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:login/pages/regi_page.dart';
+import 'package:login/pages/welcome.dart';
 import 'package:login/widgets/btn_widget.dart';
 import 'package:login/widgets/herder_container.dart';
 
-import 'Welcome.dart';
 
 class LoginPage extends StatefulWidget {
   @override
