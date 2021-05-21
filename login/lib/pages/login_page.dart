@@ -45,9 +45,9 @@ class _LoginPageState extends State<LoginPage> {
             "Forgot Password?",
           ),
         ),
-        Expanded(
-          child: Center(
-            child: ButtonWidget(
+            Expanded(
+              child: Center(
+               child: ButtonWidget(
               onClick: () {
                 Navigator.push(
                     context,
@@ -72,6 +72,7 @@ class _LoginPageState extends State<LoginPage> {
                           color: Colors.black, fontSize: 15)),
                 ]),
               ),
+
               OutlineButton(
                 child: Text(
                   "REGISTER",
